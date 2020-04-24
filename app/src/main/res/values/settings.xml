@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sample_rate_labels">
+        <item>8000 Hz</item>
+        <item>11025 Hz</item>
+        <item>22050 Hz</item>
+        <item>32000 Hz</item>
+        <item>44100 Hz</item>
+        <item>48000 Hz</item>
+    </string-array>
+
+    <string-array name="sample_rate_values">
+        <item>8000</item>
+        <item>11025</item>
+        <item>22050</item>
+        <item>32000</item>
+        <item>44100</item>
+        <item>48000</item>
+    </string-array>
+
+    <integer name="default_sample_rate">8000</integer>
+
+    <string-array name="recording_channel">
+        <item>Mono</item>
+        <item>Stereo</item>
+    </string-array>
+
+    <string name="default_recording_channel">Mono</string>
+</resources>

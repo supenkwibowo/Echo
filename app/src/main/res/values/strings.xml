@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Echo</string>
+
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="recording_setting_category">Recording</string>
+
+    <!-- Recording Preferences -->
+    <string name="sample_rate_setting">Sample Rate</string>
+    <string name="recording_channel_setting">Channel</string>
+</resources>
